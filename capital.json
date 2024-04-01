@@ -1,0 +1,14 @@
+{
+    "HCM": {
+      "name": "Ho Chi Minh",
+      "capital": "Quan 1",
+      "lat": "10.83333",
+      "long": "-106.63278"
+    },
+    "HN": {
+      "name": "Ha Noi",
+      "capital": "Ba Dinh",
+      "lat": "21.03333",
+      "long": "-105.85000"
+    }
+  }
