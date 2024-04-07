@@ -1,4 +1,4 @@
-# capital
+
 {
   "cities": {
     "BJ": {
