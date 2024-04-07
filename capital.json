@@ -4,13 +4,13 @@
   
     "BJ": {
       "name": "Beijing",
-      "capital": "Tiananmen Square",
+      "capital": "Beijing",
       "long": 116.4074,
       "lat": 39.9042
     },
     "SH": {
       "name": "Shanghai",
-      "capital": "The Bund",
+      "capital": "Shanghai",
       "long": 121.4737,
       "lat": 31.2304
     },
@@ -22,13 +22,13 @@
     },
     "HN": {
       "name": "HaNoi",
-      "capital": "Hoan Kiem Lake",
+      "capital": "HaNoi",
       "long": 105.8342,
       "lat": 21.0285
     },
     "HCM": {
       "name": "HoChiMinh",
-      "capital": "Ho Chi Minh City Hall Square",
+      "capital": "HoChiMinh",
       "long": 106.6297,
       "lat": 10.8231
     },
