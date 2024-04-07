@@ -1,41 +1,41 @@
 
+
 {
-    "cities": {
-      "BJ": {
-        "name": "Beijing",
-        "capital": "Tiananmen Square",
-        "long": 116.4074,
-        "lat": 39.9042
-      },
-      "SH": {
-        "name": "Shanghai",
-        "capital": "The Bund",
-        "long": 121.4737,
-        "lat": 31.2304
-      },
-      "SZ": {
-        "name": "Shenzhen",
-        "capital": "Shenzhen",
-        "long": 114.0579,
-        "lat": 22.5431
-      },
-      "HN": {
-        "name": "HaNoi",
-        "capital": "Hoan Kiem Lake",
-        "long": 105.8342,
-        "lat": 21.0285
-      },
-      "HCM": {
-        "name": "HoChiMinh",
-        "capital": "Ho Chi Minh City Hall Square",
-        "long": 106.6297,
-        "lat": 10.8231
-      },
-      "DN": {
-        "name": "DaNang",
-        "capital": "DaNang",
-        "long": 108.2022,
-        "lat": 16.0473
-      }
-}
+  
+    "BJ": {
+      "name": "Beijing",
+      "capital": "Tiananmen Square",
+      "long": 116.4074,
+      "lat": 39.9042
+    },
+    "SH": {
+      "name": "Shanghai",
+      "capital": "The Bund",
+      "long": 121.4737,
+      "lat": 31.2304
+    },
+    "SZ": {
+      "name": "Shenzhen",
+      "capital": "Shenzhen",
+      "long": 114.0579,
+      "lat": 22.5431
+    },
+    "HN": {
+      "name": "HaNoi",
+      "capital": "Hoan Kiem Lake",
+      "long": 105.8342,
+      "lat": 21.0285
+    },
+    "HCM": {
+      "name": "HoChiMinh",
+      "capital": "Ho Chi Minh City Hall Square",
+      "long": 106.6297,
+      "lat": 10.8231
+    },
+    "DN": {
+      "name": "DaNang",
+      "capital": "DaNang",
+      "long": 108.2022,
+      "lat": 16.0473
+    }
 }
