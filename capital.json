@@ -37,5 +37,365 @@
       "capital": "DaNang",
       "long": 108.2022,
       "lat": 16.0473
+    },
+    "AG": {
+      "name": "AnGiang",
+      "capital": "AnGiang",
+      "long": 105.18,
+      "lat": 10.3857
+    },
+    "VT": {
+      "name": "VungTau",
+      "capital": "VungTau",
+      "long": 107.0303,
+      "lat": 10.3634
+    },
+    "BL": {
+      "name": "BacLieu",
+      "capital": "BacLieu",
+      "long": 105.724,
+      "lat": 9.285
+    },
+    "BK": {
+      "name": "BacKan",
+      "capital": "BacKan",
+      "long": 105.896,
+      "lat": 22.148
+    },
+    "BG": {
+      "name": "BacGiang",
+      "capital": "BacGiang",
+      "long": 106.199,
+      "lat": 21.27
+    },
+    "BN": {
+      "name": "BacNinh",
+      "capital": "BacNinh",
+      "long": 106.05,
+      "lat": 21.186
+    },
+    "BT": {
+      "name": "BenTre",
+      "capital": "BenTre",
+      "long": 106.598,
+      "lat": 10.241
+    },
+    "BH": {
+      "name": "BinhDinh",
+      "capital": "BinhDinh",
+      "long": 108.825,
+      "lat": 14.103
+    },
+    "BTH": {
+      "name": "BinhThuan",
+      "capital": "BinhThuan",
+      "long": 108.152,
+      "lat": 10.933
+    },
+    "BD": {
+      "name": "BinhDuong",
+      "capital": "BinhDuong",
+      "long": 106.606,
+      "lat": 11.135
+    },
+    "BP": {
+      "name": "BinhPhuoc",
+      "capital": "BinhPhuoc",
+      "long": 106.901,
+      "lat": 11.647
+    },
+    "CMU": {
+      "name": "CaMau",
+      "capital": "CaMau",
+      "long": 105.11,
+      "lat": 9.176
+    },
+    "CT": {
+      "name": "CanTho",
+      "capital": "CanTho",
+      "long": 105.781,
+      "lat": 10.045
+    },
+    "CB": {
+      "name": "CaoBang",
+      "capital": "CaoBang",
+      "long": 106.248,
+      "lat": 22.678
+    },
+    "DL": {
+      "name": "DakLak",
+      "capital": "DakLak",
+      "long": 108.295,
+      "lat": 12.692
+    },
+    "DK": {
+      "name": "DakNong",
+      "capital": "DakNong",
+      "long": 107.963,
+      "lat": 12.009
+    },
+    "DB": {
+      "name": "DienBien",
+      "capital": "DienBien",
+      "long": 103.013,
+      "lat": 21.399
+    },
+    "DGN": {
+      "name": "DongNai",
+      "capital": "DongNai",
+      "long": 107.217,
+      "lat": 11.068
+    },
+    "DT": {
+      "name":"DongThap",
+      "capital":"DongThap",
+      "long":105.662,
+      "lat":10.609
+    },
+    "GL": {
+      "name":"GiaLai",
+      "capital":"GiaLai",
+      "long":108.141,
+      "lat":13.739
+    },
+    "HG": {
+      "name":"HaGiang",
+      "capital":"HaGiang",
+      "long":104.983,
+      "lat":22.832
+    },
+    "HM": {
+      "name":"HaNam",
+      "capital":"HaNam",
+      "long":105.912,
+      "lat":20.542
+    },
+    "HT": {
+      "name":"HaTinh",
+      "capital":"HaTinh",
+      "long":105.92,
+      "lat":18.341
+    },
+    "HD": {
+      "name":"HaiDuong",
+      "capital":"HaiDuong",
+      "long":106.338,
+      "lat":20.941
+    },
+    "HP": {
+      "name":"HaiPhong",
+      "capital":"HaiPhong",
+      "long":106.669,
+      "lat":20.864
+    },
+    "HUG": {
+      "name":"HauGiang",
+      "capital":"HauGiang",
+      "long":105.682,
+      "lat":9.784
+    },
+    "HB": {
+      "name":"HoaBinh",
+      "capital":"HoaBinh",
+      "long":105.337,
+      "lat":20.818
+    },
+    "HY": {
+      "name":"HungYen",
+      "capital":"HungYen",
+      "long":106.051,
+      "lat":20.646
+    },
+    "KH": {
+      "name":"KhanhHoa",
+      "capital":"KhanhHoa",
+      "long":109.181,
+      "lat":12.25
+    },
+    "KT": {
+      "name":"KonTum",
+      "capital":"KonTum",
+      "long":107.97,
+      "lat":14.356
+    },
+    "LC": {
+      "name":"LaiChau",
+      "capital":"LaiChau",
+      "long":103.191,
+      "lat":22.384
+    },
+    "KG": {
+      "name":"KienGiang",
+      "capital":"KiengGiang",
+      "long":105.105,
+      "lat":10.119
+    },
+    "LD": {
+      "name":"LamDong",
+      "capital":"LamDong",
+      "long":108.098,
+      "lat":11.85
+    },
+    "LS": {
+      "name":"LangSon",
+      "capital":"LangSon",
+      "long":106.624,
+      "lat":21.828
+    },
+    "LCI": {
+      "name":"LaoCai",
+      "capital":"LaoCai",
+      "long":104.009,
+      "lat":22.482
+    },
+    "LA": {
+      "name":"LongAn",
+      "capital":"LongAn",
+      "long":106.341,
+      "lat":10.541
+    },
+    "ND": {
+      "name":"NamDinh",
+      "capital":"NamDinh",
+      "long":106.171,
+      "lat":20.428
+    },
+    "NA": {
+      "name":"NgheAn",
+      "capital":"NgheAn",
+      "long":104.844,
+      "lat":19.304
+    },
+    "NB": {
+      "name":"NinhBinh",
+      "capital":"NinhBinh",
+      "long":105.975,
+      "lat":20.253
+    },
+    "NT": {
+      "name":"NinhThuan",
+      "capital":"NinhThuan",
+      "long":108.828,
+      "lat":11.814
+    },
+    "PT": {
+      "name":"PhuTho",
+      "capital":"PhuTho",
+      "long":105.222,
+      "lat":21.301
+    },
+    "PY": {
+      "name":"PhuYen",
+      "capital":"PhuYen",
+      "long":109.225,
+      "lat":13.088
+    },
+    "QB": {
+      "name":"QuangBinh",
+      "capital":"QuangBinh",
+      "long":106.508,
+      "lat":17.467
+    },
+    "QN": {
+      "name":"QuangNam",
+      "capital":"QuangNam",
+      "long":107.94,
+      "lat":15.636
+    },
+    "QNG": {
+      "name":"QuangNgai",
+      "capital":"QuangNgai",
+      "long":108.801,
+      "lat":15.116
+    },
+    "QNH": {
+      "name":"QuangNinh",
+      "capital":"QuangNinh",
+      "long":107.115,
+      "lat":21.006
+    },
+    "QT": {
+      "name":"QuangTri",
+      "capital":"QuangTri",
+      "long":107.121,
+      "lat":16.737
+    },
+    "ST": {
+      "name":"SocTrang",
+      "capital":"SocTrang",
+      "long":105.99,
+      "lat":9.603
+    },
+    "SL": {
+      "name":"SonLa",
+      "capital":"SonLa",
+      "long":104.994,
+      "lat":21.189
+    },
+    "TN": {
+      "name":"TayNinh",
+      "capital":"TayNinh",
+      "long":106.165,
+      "lat":11.314
+    },
+    "TB": {
+      "name":"ThaiBinh",
+      "capital":"ThaiBinh",
+      "long":106.334,
+      "lat":20.45
+    },
+    "TNG": {
+      "name":"ThaiNguyen",
+      "capital":"ThaiNguyen",
+      "long":105.843,
+      "lat":21.592
+    },
+    "TH": {
+      "name":"ThanhHoa",
+      "capital":"ThanhHoa",
+      "long":105.766,
+      "lat":19.807
+    },
+    "TTH": {
+      "name":"ThuaThienHue",
+      "capital":"ThuaThienHue",
+      "long":107.606,
+      "lat":16.461
+    },
+    "TG": {
+      "name":"TienGiang",
+      "capital":"TienGiang",
+      "long":106.342,
+      "lat":10.409
+    },
+    "TV": {
+      "name":"TraVinh",
+      "capital":"TraVinh",
+      "long":106.343,
+      "lat":9.913
+    },
+    "TQ": {
+      "name":"TuyenQuang",
+      "capital":"TuyenQuang",
+      "long":105.218,
+      "lat":21.817
+    },
+    "VL": {
+      "name":"VinhLong",
+      "capital":"VinhLong",
+      "long":105.987,
+      "lat":10.256
+    },
+    "VP": {
+      "name":"VinhPhuc",
+      "capital":"VinhPhuc",
+      "long":105.574,
+      "lat":21.315
+    },
+    "YB": {
+      "name":"YenBai",
+      "capital":"YenBai",
+      "long":104.886,
+      "lat":21.72
     }
 }
