@@ -343,41 +343,5 @@
       "capital":"ThuaThienHue",
       "long":107.606,
       "lat":16.461
-    },
-    "TG": {
-      "name":"TienGiang",
-      "capital":"TienGiang",
-      "long":106.342,
-      "lat":10.409
-    },
-    "TV": {
-      "name":"TraVinh",
-      "capital":"TraVinh",
-      "long":106.343,
-      "lat":9.913
-    },
-    "TQ": {
-      "name":"TuyenQuang",
-      "capital":"TuyenQuang",
-      "long":105.218,
-      "lat":21.817
-    },
-    "VL": {
-      "name":"VinhLong",
-      "capital":"VinhLong",
-      "long":105.987,
-      "lat":10.256
-    },
-    "VP": {
-      "name":"VinhPhuc",
-      "capital":"VinhPhuc",
-      "long":105.574,
-      "lat":21.315
-    },
-    "YB": {
-      "name":"YenBai",
-      "capital":"YenBai",
-      "long":104.886,
-      "lat":21.72
     }
 }
