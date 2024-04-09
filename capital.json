@@ -92,12 +92,6 @@
       "long": 108.152,
       "lat": 10.933
     },
-    "BD": {
-      "name": "BinhDuong",
-      "capital": "BinhDuong",
-      "long": 106.606,
-      "lat": 11.135
-    },
     "BP": {
       "name": "BinhPhuoc",
       "capital": "BinhPhuoc",
@@ -128,23 +122,11 @@
       "long": 108.295,
       "lat": 12.692
     },
-    "DK": {
-      "name": "DakNong",
-      "capital": "DakNong",
-      "long": 107.963,
-      "lat": 12.009
-    },
     "DB": {
       "name": "DienBien",
       "capital": "DienBien",
       "long": 103.013,
       "lat": 21.399
-    },
-    "DGN": {
-      "name": "DongNai",
-      "capital": "DongNai",
-      "long": 107.217,
-      "lat": 11.068
     },
     "DT": {
       "name":"DongThap",
@@ -187,12 +169,6 @@
       "capital":"HaiPhong",
       "long":106.669,
       "lat":20.864
-    },
-    "HUG": {
-      "name":"HauGiang",
-      "capital":"HauGiang",
-      "long":105.682,
-      "lat":9.784
     },
     "HB": {
       "name":"HoaBinh",
